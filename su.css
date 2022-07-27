@@ -32,10 +32,7 @@ h1 {
 .btn-xl {
   padding: 1rem 2em;
 }
-div.container{
-  display:flex;
-  justify-content:center;
-}
+
 .btn-primary {
   background-color: #f05f44;
   border-color: #f05f44;
@@ -47,4 +44,9 @@ div.container{
    border-color: #ee4b08;
    border-width: 4px;
 
+}
+
+div.container{
+  display:flex;
+  justify-content:center;
 }
